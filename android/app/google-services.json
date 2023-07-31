@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148579580988",
+    "project_id": "itisummer-d1c79",
+    "storage_bucket": "itisummer-d1c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148579580988:android:9e7cdb96a548bfd4239739",
+        "android_client_info": {
+          "package_name": "com.example.flutterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148579580988-q61iqgshr4j9lar3ind1lo1os87b9j4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKIEH2VJJ0_U4gw67kptyvLByhwbKYQM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148579580988-q61iqgshr4j9lar3ind1lo1os87b9j4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
